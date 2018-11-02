@@ -1,0 +1,68 @@
+body{
+	font-family: helvetica neue light;
+	background: #ffad56;
+	color: white;
+	text-align: center;
+}
+
+h1{
+	color: red;
+	font-size: 40px;
+	font-family: helvetica neue light;
+	background-position: center;
+	background-size: cover;
+}
+
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	background:white;
+	cursor: pointer;
+	border-radius: 30px;
+	padding:10px;
+}
+
+img{
+	width: 600px
+}
+#parlement{
+	height: 338px
+}
+
+
+ul{
+	text-align:left;
+}
+
+p{border: 3px dotted red;
+	padding :20px;
+	margin : 30px;
+}
+
+
+
+.box-white{
+	background:rgba(255,255,255,0.5);
+	padding:10px;
+	margin:20px;
+}
+
+.box-orangeclair{
+	background:#df8e5c;
+	border-radius: 100px;
+	margin:10px;
+}
+
+.box-orange{
+	background:#ff8426;
+	border-radius: 100px;
+	margin:10px;
+}
+
+.box-orangefoncé{
+	background:#f26a01;
+	border-radius: 100px;
+	margin:10px;
+}
